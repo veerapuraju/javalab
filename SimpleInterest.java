@@ -14,7 +14,6 @@ class SimpleInterest
 class Interest
 {
 	double amount, rate, time, interest;
-	
 	public void input_values()
 	{
   		Scanner reader = new Scanner(System.in);
