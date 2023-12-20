@@ -10,7 +10,6 @@ class SimpleInterest
 		interest.show_interest();
 	}
 }
-
 class Interest
 {
 	double amount, rate, time, interest;
